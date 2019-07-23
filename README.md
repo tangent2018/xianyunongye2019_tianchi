@@ -33,7 +33,7 @@
 
 ## 数据处理
 1. 执行数据处理命令 ```bash ./code/data_process.sh```
-2. 确认文件已生成
+2. 确认文件已生成<br>
 ![extract_data_folder](./code/readme_image/extract_data_folder.png)
 ![extract_data_folder2](./code/readme_image/extract_data_folder2.png)
 
@@ -56,5 +56,5 @@ Epoch 38/38
 
 ## 预测和提交
 1. 执行模型的建立和训练命令 ```bash ./code/merge_submit.sh```
-2. 确认文件已生成
+2. 确认文件已生成<br>
 ![submit_folder](./code/readme_image/submit_folder.png)
